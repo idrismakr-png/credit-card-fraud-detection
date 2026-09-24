@@ -5,10 +5,7 @@ This project applies machine learning techniques to detect fraudulent credit car
 
 ## Author
 - **Name:** Idris Muhammad Abubakar
-- **Course:** COEN807 – Machine Learning Fundamentals
-- **Date:** June, 2026
-- **Institution:** Ahmadu Bello University, Zaria
-
+  
 ## Dataset
 **Source:** Kaggle / UCI Machine Learning Repository
 - **Name:** Credit Card Fraud Detection (Dal Pozzolo et al., 2015)
