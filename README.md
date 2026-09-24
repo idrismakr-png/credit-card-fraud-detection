@@ -1,4 +1,4 @@
-# COEN807 Term Project: Credit Card Fraud Detection
+#Credit Card Fraud Detection
 
 ## Project Overview
 This project applies machine learning techniques to detect fraudulent credit card transactions using a publicly available dataset. Three supervised learning classifiers (Logistic Regression, Decision Tree, and Support Vector Machine) are implemented, tuned, and compared.
