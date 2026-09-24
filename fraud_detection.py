@@ -3,11 +3,10 @@
 
 # -*- coding: utf-8 -*-
 """
-COEN807 Term Project - Machine Learning for Real-World Data Analytics
+Machine Learning for Real-World Data Analytics
 Supervised Learning: Classification - Credit Card Fraud Detection
 
 Author: Idris Muhammad Abubakar
-Student ID: P25EGCP9003
 Date: June, 2026
 """
 
